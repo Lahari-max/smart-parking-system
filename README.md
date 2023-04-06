@@ -1,4 +1,4 @@
-# Smart Parking System -AndroidApplication
+# Smart Parking System -Android Application
  The system identifies empty parking slots by detecting these characters with installed camera above the parking slots, otherwise tha parking slot is occupies
 # About
  Smart parking system is a self-hosted read-it-later app

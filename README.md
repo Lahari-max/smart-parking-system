@@ -6,16 +6,16 @@
  you need account first, which you are goig to use in this app
 # Features
  Software based
-  Does not require hardware in front of door
-  Counter inside the application
-  User friendly application
+  Does not require hardware in front of door.
+  Counter inside the application.
+  User friendly application.
   Reduces fuel consumption and time delay. Spare time can be used for other work.
-  Manpower is reduced by this automation 
+  Manpower is reduced by this automation .
   Reduces cost for users by notifying the time wise cost.
 # Permissions
   smart parking system requires the follwing permissions:
-  full network access
-  view network connections 
+  full network access.
+  view network connections.
   should be able to handle concurrent access to the database by users
   as the database is centralized , many users can simultaneously access it and it is possible that many users can book the same parking area at the same time. The system must be able to handle such cases.
 
